@@ -1,0 +1,21 @@
+{
+  "short_name": "Gestor",
+  "name": "Gestor Financeiro Empresarial",
+  "description": "Uma ferramenta completa para a gestão financeira de sua empresa. Controle o fluxo de caixa, contas a pagar e receber, e analise a saúde do seu negócio com relatórios inteligentes.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f1f5f9"
+}
